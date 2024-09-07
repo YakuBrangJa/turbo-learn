@@ -2,7 +2,7 @@
   "name": "turbo-learn",
   "private": true,
   "files": [
-    "packages/ui/dist"
+    "packages"
   ],
   "scripts": {
     "build": "turbo build",
