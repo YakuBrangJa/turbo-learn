@@ -5,10 +5,7 @@
   "exports": {
     "./button": "./src/button.tsx",
     "./card": "./src/card.tsx",
-    "./code": "./src/code.tsx",
-    ".": {
-      "import": "./dist/index.js"
-    }
+    "./code": "./src/code.tsx"
   },
   "main": "./dist/index.js",
   "module": "./dist/index.js",
