@@ -1,11 +1,9 @@
 {
   "name": "turbo-learn",
   "private": true,
-  "exports": {
-    ".": {
-      "import": "./packages/ui/dist"
-    }
-  },
+  "files": [
+    "packages/ui/dist"
+  ],
   "scripts": {
     "build": "turbo build",
     "dev": "turbo dev",
